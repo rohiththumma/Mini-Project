@@ -33,18 +33,6 @@ A smart tool to analyze resumes against job descriptions using AI-powered insigh
 - Python 3.8+
 - Google Gemini API key ([Get from Google AI Studio](https://aistudio.google.com/))
 
-### Installation
-```bash
-# Clone repository
-git clone https://github.com/<your-username>/cv-analysis-dashboard.git
-cd cv-analysis-dashboard
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Set up environment
-echo "GEMINI_API_KEY=your_api_key_here" > .env
-
 1.Paste job description in the text area
 2.Upload your resume (PDF/DOCX/DOC/TXT)
 3.Click "Submit" for instant analysis
