@@ -21,7 +21,7 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 
 class MiniProject:
     def __init__(self):
-        GeminiAPI = 'AIzaSyB3tMl9zs4zD-6OJHMwAOoktScbXe3Oyyw'
+        GeminiAPI = ''
         genai.configure(api_key=GeminiAPI)
         # Correcting generation_config to be a dictionary
         self.model = genai.GenerativeModel(
