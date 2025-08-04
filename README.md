@@ -1,6 +1,4 @@
-# Mini-Project
-CV & JOB DESCRIPTION ANALYSIS DASHBOARD USING GEN AI INTEGRATION OF API
-# CV/Resume Analysis Dashboard 🚀
+#RESUME SCREENING USING GENERATIVE AI
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
